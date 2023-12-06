@@ -1,0 +1,10 @@
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\HelloEasyAuthMVC.exe
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\appsettings.json
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\HelloEasyAuthMVC.dll
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\HelloEasyAuthMVC.deps.json
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\HelloEasyAuthMVC.runtimeconfig.json
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\HelloEasyAuthMVC.pdb
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\System.Security.Permissions.dll
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\EasyAuthProvider.dll
+C:\Repository\authentication-appservice\HelloEasyAuthMVC\bin\Release\net7.0\publish\EasyAuthProvider.pdb

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<KeyValuePair<string,string>>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a class="btn btn-primary" href="/.auth/login/aad?post_login_redirect_uri=/">Log in with the MicrosoftIdentity</a>
+<a class="btn btn-primary" href="/.auth/logout">Logout</a>
+
+<div>
+    IsAuthenticated: @ViewData["IsAuthenticated"]
+</div>
+<div>
+    Name: @ViewData["Name"]
+</div>
+
+<dl class="m-3">
+    @foreach (var item in Model)
+    {
+        <dt>@item.Key</dt>
+        <dt>@item.Value</dt>
+    }
+</dl>

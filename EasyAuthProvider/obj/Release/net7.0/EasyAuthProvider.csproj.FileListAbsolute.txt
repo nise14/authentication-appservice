@@ -1,0 +1,12 @@
+C:\Repository\authentication-appservice\EasyAuthProvider\bin\Release\net7.0\EasyAuthProvider.deps.json
+C:\Repository\authentication-appservice\EasyAuthProvider\bin\Release\net7.0\EasyAuthProvider.dll
+C:\Repository\authentication-appservice\EasyAuthProvider\bin\Release\net7.0\EasyAuthProvider.pdb
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.csproj.AssemblyReference.cache
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.AssemblyInfoInputs.cache
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.AssemblyInfo.cs
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.csproj.CoreCompileInputs.cache
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.dll
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\refint\EasyAuthProvider.dll
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\EasyAuthProvider.pdb
+C:\Repository\authentication-appservice\EasyAuthProvider\obj\Release\net7.0\ref\EasyAuthProvider.dll
